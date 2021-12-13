@@ -1,1 +1,1 @@
-Новый класс Converter
+Класс Converter
