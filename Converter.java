@@ -1,1 +1,1 @@
-class Hamster {
+class Converter {
